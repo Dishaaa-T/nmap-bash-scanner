@@ -17,4 +17,11 @@ This tool automates network scanning using Nmap and Bash for beginners in cybers
 ```bash
 $ ./scan.sh
 Enter the target IP or domain: scanme.nmap.org
+```
+
+## 📸 Sample Scan Output
+
+Here's an example of what the terminal output looks like:
+
+![Scan Example](assets/Screenshot_1.png)
 
