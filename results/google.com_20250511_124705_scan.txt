@@ -1,0 +1,14 @@
+Scan started at: Sun May 11 12:47:05 PM EDT 2025
+-e 
+[+] Running Ping Scan...
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-11 12:47 EDT
+Nmap scan report for google.com (142.250.77.46)
+Host is up (0.0025s latency).
+Other addresses for google.com (not scanned): 2404:6800:4009:81c::200e
+rDNS record for 142.250.77.46: bom07s26-in-f14.1e100.net
+Nmap done: 1 IP address (1 host up) scanned in 0.88 seconds
+-e 
+[+] Running Full Port Scan...
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-11 12:47 EDT
+Stats: 0:00:14 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.29% done
